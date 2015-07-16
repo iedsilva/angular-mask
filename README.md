@@ -6,5 +6,5 @@ jQuery Masked Input
 
 #Example
 <pre>
-	 masked="99/99/9999"
+masked="99/99/9999"
 </pre>
